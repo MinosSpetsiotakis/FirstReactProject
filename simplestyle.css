@@ -1,0 +1,17 @@
+﻿
+li a{
+	color:#000;
+	text-decoration:none;
+	margin:0px 20px;
+}
+li a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+.navbar-custom-cont{
+	background-color:#808080;
+	border-bottom:2px solid #000;
+}
+	.navbar-custom-cont .navbar {
+		justify-content: center;
+	}
